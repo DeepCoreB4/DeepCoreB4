@@ -1,7 +1,7 @@
 ### Hello World! 👋
 **DeepCoreB4/DeepCoreB4** is a ✨ _special_ ✨ repository because its `README.md`.
 
-![alt text][logo] 
+[alt text][logo] 
 
 [logo]:https://developers-dc.netlify.app/static/media/moshed-05-15-17-40-43.d34b947c.gif
 
