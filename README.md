@@ -1,11 +1,8 @@
 ### Hello World! 👋
 **DeepCoreB4/DeepCoreB4** is a ✨ _special_ ✨ repository because its `README.md`.
-
  
 ![alt text][logo] 
-
 [logo]:https://github.com/DeepCoreB4/og-image/blob/main/public/blendit4.gif?raw=true
-
 [logo]
 
 
