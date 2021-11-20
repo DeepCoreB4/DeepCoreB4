@@ -5,8 +5,6 @@
 
 [logo]:https://github.com/DeepCoreB4/og-image/blob/main/public/blendit4.gif?raw=true
 
-[logo]
-
 - 🌱 Ich lerne gerade ... Alles, mögliche! Aber am liebsten Flutter & Dart
 - 👯 Ich suche eine Mitarbeit an ... Nein, Momentan eher nicht!
 - 📫 So erreichen Sie mich: ... cupparikun@gmail.com
