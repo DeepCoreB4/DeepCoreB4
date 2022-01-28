@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edgar Cuppari</h1>
-<h3 align="center">A passionate frontend developer from Schwitzerland</h3>
+<h3 align="center">A passionate frontend developer from Switzerland</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepcoreb4" alt="deepcoreb4" /></a> </p>
 
@@ -32,3 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepcoreb4&show_icons=true&locale=en&layout=compact" alt="deepcoreb4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepcoreb4&show_icons=true&locale=en" alt="deepcoreb4" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepcoreb4)](https://git.io/streak-stats)
