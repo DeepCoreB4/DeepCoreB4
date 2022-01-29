@@ -12,7 +12,7 @@
 <p align="center"> <a href="https://twitter.com/blendit4ent" target="blank"><img
             src="https://img.shields.io/twitter/follow/blendit4ent?logo=twitter&style=for-the-badge"
             alt="blendit4ent"/></a></p>
-<center>
+
 - 🔭 I’m currently working on an Roadmap for future usage [Developers Roadmap](https://github.com/DeepCoreB4/developer-roadmap)
 
 - 🌱 I’m currently learning **Tailwind CSS / MDX Embed / Gatsby / Nex.js**
@@ -30,6 +30,8 @@
   [https://edgar-cuppari-dev.vercel.app/who-am-i](https://edgar-cuppari-dev.vercel.app/who-am-i)
 
 - ## ⚡ Fun fact **Im not Funny, but Explained in Fewer than 140 Charactersy 🤪**
+
+<center>
   <br>
 
 ## Blogs posts<br><br>
