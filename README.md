@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepcoreb4&show_icons=true&locale=en" alt="deepcoreb4" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepcoreb4)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deepcoreb4&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=F40000&currStreakNum=00DDA1&sideNums=DD9538&currStreakLabel=4D91FF&dates=F7EAD0EA&sideLabels=5DDD47)](https://git.io/streak-stats)
