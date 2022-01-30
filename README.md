@@ -29,7 +29,7 @@
 - 📄 Know about my experiences
   [https://edgar-cuppari-dev.vercel.app/who-am-i](https://edgar-cuppari-dev.vercel.app/who-am-i)
 
-- # ⚡ Fun fact **Im not Funny, but Explained in Fewer than 140 Charactersy 🤪**
+- ### ⚡ Fun fact **Im not Funny, but Explained in Fewer than 140 Charactersy 🤪**
 </center>        
 
   <br>
