@@ -45,10 +45,19 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
+</details>
+<br
+>
+<br
+>
 <h2 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://codepen.io/deepcoreb4" target="blank">
