@@ -148,9 +148,27 @@
   </a>
 </p>
 
-<h2 align="center">Languages and Tools:</h3>
+<br>
 
-<h1 align="center">Support:<br></br>
+<h2 align="center">Support:<br></br>
 <p><a href="https://www.buymeacoffee.com/DCb4Cuppari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DCb4Cuppari" /></a></p>
 
-![deepcorb4](https://github-readme-stats.vercel.app/api?username=deepcoreb4&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-mod.vercel.app/api/wakatime?username=deepcoreb4)](https://github-readme-mod.vercel.app/api/wakatime?username=deepcoreb4)
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+
+![deepcorb4](https://github-readme-mod.vercel.app/api?username=deepcoreb4&show_icons=true&theme=monokai)
+
+[![wakatime](https://wakatime.com/badge/user/956ac3ec-0172-42a0-a5e6-84b32edaf94e.svg)](https://wakatime.com/leaders?rank=me)
+
+  <a href='https://profile.codersrank.io/user/deepcoreb4/'>
+  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=deepcoreb4&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  </a>
+
+</details>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=deepcoreb4&labels=true"
+/>
