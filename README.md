@@ -30,11 +30,14 @@
   [https://edgar-cuppari-dev.vercel.app/who-am-i](https://edgar-cuppari-dev.vercel.app/who-am-i)
 
 - ### ⚡ Fun fact **Im not Funny, but Explained in Fewer than 140 Charactersy 🤪**
-</center>        
 
-  <br>
+  </center>
 
-## Blogs posts<br><br>
+    <br>
+
+---
+
+## 🛎️Latest Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -143,7 +146,6 @@
 </p>
 
 <h2 align="center">Languages and Tools:</h3>
-
 
 <h1 align="center">Support:<br></br>
 <p><a href="https://www.buymeacoffee.com/DCb4Cuppari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DCb4Cuppari" /></a></p>
