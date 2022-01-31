@@ -11,4 +11,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: '4'
-          feed_list: 'https://medium.com/feed/@edgar-dominik-herren, https://edgar-dominik-herren.vercel.app/rss.xml'
+          feed_list: 'https://dev.to/feed/blendit4ent, https://edgar-dominik-herren.vercel.app/rss.xml'
