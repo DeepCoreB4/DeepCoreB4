@@ -37,6 +37,8 @@
 
 ---
 
+<br>
+
 ## 🛎️Latest Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -45,20 +47,31 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+<br>
+
 ---
 
 <details>
+
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+<br>
 
 </details>
 <br
 >
 <br
 >
+
+<h2 align="center">Support:
+
+<p><a href="https://www.buymeacoffee.com/DCb4Cuppari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DCb4Cuppari" /></a></p>
+<br>
 <h2 align="center">Connect with me:</h3>
+
 <p align="center">
   <a href="https://codepen.io/deepcoreb4" target="blank">
     <img
@@ -161,12 +174,7 @@
   </a>
 </p>
 
-<br>
-
-<h2 align="center">Support:<br></br>
-<p><a href="https://www.buymeacoffee.com/DCb4Cuppari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DCb4Cuppari" /></a></p>
-
-[![willianrod's wakatime stats](https://github-readme-mod.vercel.app/api/wakatime?username=deepcoreb4)](https://github-readme-mod.vercel.app/api/wakatime?username=deepcoreb4)
+<h2 align="center"></br>
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
