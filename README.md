@@ -55,7 +55,9 @@
 
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-[![GitHub - Activity - Readme](https://github.com/DeepCoreB4/DeepCoreB4/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/DeepCoreB4/DeepCoreB4/actions/workflows/update-readme.yml)
+        
+- [![GitHub - Activity - Readme](https://github.com/DeepCoreB4/DeepCoreB4/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/DeepCoreB4/DeepCoreB4/actions/workflows/update-readme.yml)
+        
 <!--END_SECTION:activity-->
 
 <br>
