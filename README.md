@@ -175,8 +175,7 @@
 
 <h2 align="center"></br>
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=deepcoreb4&labels=true"
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=deepcoreb4&labels=true"
 />
 
 <details>
