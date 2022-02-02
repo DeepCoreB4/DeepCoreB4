@@ -14,8 +14,3 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-curl \
-  -X PUT \
-  -H "Accept: application/vnd.github.v3+json" \
-  https://api.github.com/repos/octocat/hello-world/actions/permissions/selected-actions \
-  -d '{"github_owned_allowed":true}'
