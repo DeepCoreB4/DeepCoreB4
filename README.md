@@ -69,10 +69,6 @@
 <br
 >
 
-<h2 align="center">Support:
-
-<p><a href="https://www.buymeacoffee.com/DCb4Cuppari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DCb4Cuppari" /></a></p>
-<br>
 <h2 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -179,6 +175,10 @@
 
 <h2 align="center"></br>
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=deepcoreb4&labels=true"
+/>
+
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
@@ -193,7 +193,3 @@
   </a>
 
 </details>
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=deepcoreb4&labels=true"
-/>
