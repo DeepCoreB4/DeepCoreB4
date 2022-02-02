@@ -175,8 +175,7 @@
 
 <h2 align="center"></br>
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=deepcoreb4&labels=true"
-/>
+![deepcorb4](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=deepcoreb4&labels=true)
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
