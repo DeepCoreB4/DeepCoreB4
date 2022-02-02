@@ -39,7 +39,7 @@
 
 <br>
 
-## 🛎️ Blog
+## 🛎️ Blogs posts
 
 <details>
 
