@@ -47,8 +47,9 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [Modifying SVG background fills](https://edgar-dominik-herren.vercel.app/articles/svg-background-fills)
-- [Read Me -a Git Story need&#39;s a Repo](https://dev.to/blendit4ent/read-me-a-git-story-needs-a-repo-4odo)
+
 - [Developer Roadmap](https://edgar-dominik-herren.vercel.app/articles/developer-roadmap)
+
 - [Responsive data visualization](https://edgar-dominik-herren.vercel.app/articles/responsive-data-visualization)
 
 <!-- BLOG-POST-LIST:END -->
