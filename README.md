@@ -65,6 +65,7 @@
 <details>
 
   <summary>:zap: Recent GitHub Activity</summary>
+  <br>
 <!--START_SECTION:activity-->
 
 - [![GitHub - Activity - Readme](https://github.com/DeepCoreB4/DeepCoreB4/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/DeepCoreB4/DeepCoreB4/actions/workflows/update-readme.yml)
@@ -72,6 +73,9 @@
 <!--END_SECTION:activity-->
 
 <br>
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=deepcoreb4&labels=true"
+/>
 
 </details>
 <br
@@ -185,9 +189,6 @@
 
 <h2 align="center"></br>
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=deepcoreb4&labels=true"
-/>
-
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
@@ -195,6 +196,7 @@
 ![deepcorb4](https://github-readme-mod.vercel.app/api?username=deepcoreb4&show_icons=true&theme=monokai)
 
 [![dashboard](https://wakatime.com/badge/user/956ac3ec-0172-42a0-a5e6-84b32edaf94e.svg)](https://wakatime.com/dashboard)
+
 [![portfolio](https://wakatime.com/badge/github/DeepCoreB4/zslabs-next.svg)](https://wakatime.com/badge/github/DeepCoreB4/zslabs-next)
 
   <a href='https://profile.codersrank.io/user/deepcoreb4/'>
