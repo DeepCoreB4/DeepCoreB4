@@ -8,33 +8,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=deepcoreb4"
             alt="deepcoreb4"/></a></p>
-
-<p align="center"> <a href="https://twitter.com/blendit4ent" target="blank"><img
-            src="https://img.shields.io/twitter/follow/blendit4ent?logo=twitter&style=for-the-badge"
-            alt="blendit4ent"/></a></p>
-<h3 align="center">
-- 🔭 I’m currently working on an Roadmap for future usage [Developers Roadmap](https://github.com/DeepCoreB4/developer-roadmap)
-
-- 🌱 I’m currently learning **Tailwind CSS / MDX Embed / Gatsby / Nex.js**
-
-- 👨‍💻 All of my projects are available at
-  [https://edgar-cuppari-dev.vercel.app/projects](https://edgar-cuppari-dev.vercel.app/projects)
-
-- 📝 I regularly write articles on [https://edgar-dominik-herren.vercel.app/](https://edgar-dominik-herren.vercel.app/)
-
-- 💬 Ask me about **Flutter, CSS Styles**
-
-- 📫 How to reach me **cuparikun@gmail.com**
-
-- 📄 Know about my experiences
-  [https://edgar-cuppari-dev.vercel.app/who-am-i](https://edgar-cuppari-dev.vercel.app/who-am-i)
-
-- ### ⚡ Fun fact **Im not Funny, but Explained in Fewer than 140 Charactersy 🤪**
-
-  </center>
-
-    <br>
-
+</center>
+  
+ <br>
+ 
 ---
 
 <br>
