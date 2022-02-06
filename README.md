@@ -10,55 +10,7 @@
             alt="deepcoreb4"/></a></p>
 </center>
   
- <br>
- 
----
-
 <br>
-
-## 🛎️ Blogs posts
-
-<details>
-
-  <summary>:fire: latest Blogs post</summary>
-
-<!-- BLOG-POST-LIST:START -->
-- [Erster post - First post](https://dev.to/blendit4ent/erster-post-first-post-aja)
-- [Modifying SVG background fills](https://edgar-dominik-herren.vercel.app/articles/svg-background-fills)
-- [Developer Roadmap](https://edgar-dominik-herren.vercel.app/articles/developer-roadmap)
-- [Responsive data visualization](https://edgar-dominik-herren.vercel.app/articles/responsive-data-visualization)
-- [Improving Next.js links](https://edgar-dominik-herren.vercel.app/articles/improving-nextjs-links)
-- [MDX previews in Netlify CMS](https://edgar-dominik-herren.vercel.app/articles/mdx-previews-in-netlify-cms)
-- [MDX link routing in Gatsby](https://edgar-dominik-herren.vercel.app/articles/mdx-link-routing-in-gatsby)
-- [MDX frontmatter in Gatsby](https://edgar-dominik-herren.vercel.app/articles/mdx-frontmatter-in-gatsby)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-
-<br>
-
----
-
-<details>
-
-  <summary>:zap: Recent GitHub Activity</summary>
-  <br>
-<!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#61](https://github.com/iamvishnusankar/next-sitemap/issues/61) in [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap)
-
-<!--END_SECTION:activity-->
-
-<br>
-
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=deepcoreb4&labels=true"
-/>
-
-</details>
-<br
->
-<br
->
 
 <h2 align="center">Connect with me:</h3>
 
@@ -180,3 +132,49 @@
   </a>
 
 </details>
+
+---
+
+<P align="center">  🛎️ Blogs posts
+
+<details>
+
+  <summary>:fire: latest Blogs post</summary>
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Erster post - First post](https://dev.to/blendit4ent/erster-post-first-post-aja)
+- [Modifying SVG background fills](https://edgar-dominik-herren.vercel.app/articles/svg-background-fills)
+- [Developer Roadmap](https://edgar-dominik-herren.vercel.app/articles/developer-roadmap)
+- [Responsive data visualization](https://edgar-dominik-herren.vercel.app/articles/responsive-data-visualization)
+- [Improving Next.js links](https://edgar-dominik-herren.vercel.app/articles/improving-nextjs-links)
+- [MDX previews in Netlify CMS](https://edgar-dominik-herren.vercel.app/articles/mdx-previews-in-netlify-cms)
+- [MDX link routing in Gatsby](https://edgar-dominik-herren.vercel.app/articles/mdx-link-routing-in-gatsby)
+- [MDX frontmatter in Gatsby](https://edgar-dominik-herren.vercel.app/articles/mdx-frontmatter-in-gatsby)
+<!-- BLOG-POST-LIST:END -->
+
+</details>
+
+<br>
+
+---
+
+<details>
+
+  <summary>:zap: Recent GitHub Activity</summary>
+  <br>
+<!--START_SECTION:activity-->
+
+1. 🗣 Commented on [#61](https://github.com/iamvishnusankar/next-sitemap/issues/61) in [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap)
+
+<!--END_SECTION:activity-->
+
+<br>
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=deepcoreb4&labels=true"
+/>
+
+</details>
+<br>
+<br>
+</p>
