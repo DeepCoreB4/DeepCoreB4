@@ -45,7 +45,7 @@
   <br>
 <!--START_SECTION:activity-->
 
-- [![GitHub - Activity - Readme](https://github.com/DeepCoreB4/DeepCoreB4/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/DeepCoreB4/DeepCoreB4/actions/workflows/update-readme.yml)
+1. 🗣 Commented on [#61](https://github.com/iamvishnusankar/next-sitemap/issues/61) in [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap)
 
 <!--END_SECTION:activity-->
 
