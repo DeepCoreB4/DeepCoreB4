@@ -142,7 +142,6 @@
   <summary>:fire: latest Blogs post</summary>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Erster post - First post](https://dev.to/blendit4ent/erster-post-first-post-aja)
 - [Modifying SVG background fills](https://edgar-dominik-herren.vercel.app/articles/svg-background-fills)
 - [Developer Roadmap](https://edgar-dominik-herren.vercel.app/articles/developer-roadmap)
