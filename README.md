@@ -142,14 +142,11 @@
   <summary>:fire: latest Blogs post</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [I love loaders](https://edgar-dominik-herren.vercel.app/articles/i-love-loaders)
 - [Erster post - First post](https://dev.to/blendit4ent/erster-post-first-post-aja)
 - [Modifying SVG background fills](https://edgar-dominik-herren.vercel.app/articles/svg-background-fills)
 - [Developer Roadmap](https://edgar-dominik-herren.vercel.app/articles/developer-roadmap)
-- [Responsive data visualization](https://edgar-dominik-herren.vercel.app/articles/responsive-data-visualization)
 - [Improving Next.js links](https://edgar-dominik-herren.vercel.app/articles/improving-nextjs-links)
-- [MDX previews in Netlify CMS](https://edgar-dominik-herren.vercel.app/articles/mdx-previews-in-netlify-cms)
-- [MDX link routing in Gatsby](https://edgar-dominik-herren.vercel.app/articles/mdx-link-routing-in-gatsby)
-- [MDX frontmatter in Gatsby](https://edgar-dominik-herren.vercel.app/articles/mdx-frontmatter-in-gatsby)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
