@@ -171,7 +171,7 @@
   <br>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#61](https://github.com/iamvishnusankar/next-sitemap/issues/61) in [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap)
+1. ❗️ Closed issue [#1](https://github.com/DeepCoreB4/DeepCoreB4/issues/1) in [DeepCoreB4/DeepCoreB4](https://github.com/DeepCoreB4/DeepCoreB4)
 
 <!--END_SECTION:activity-->
 
