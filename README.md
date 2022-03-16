@@ -1,20 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edgar Cuppari</h1>
-<h3 align="center">A passionate frontend developer from Switzerland</h3>
-
-<p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=deepcoreb4&label=Profile%20views&color=89bc1a&style=plastic"
-        alt="deepcoreb4"/></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=deepcoreb4"
-            alt="deepcoreb4"/></a></p>
-</center>
-  
-<br>
-</p>
+<h3 align="center">A passionate frontend developer from Switzerland</h3>  
 
 <h2 align="center"></br>
-
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
@@ -45,37 +32,6 @@
 - [Developer Roadmap](https://edgar-dominik-herren.vercel.app/articles/developer-roadmap)
 - [Improving Next.js links](https://edgar-dominik-herren.vercel.app/articles/improving-nextjs-links)
 <!-- BLOG-POST-LIST:END -->
-
-</details>
-
-<br>
-
-<details>
-
-  <summary>:zap: latest Activity Stackoverflow</summary>
-        
-<!-- STACKOVERFLOW:START -->
-- [All page content should be contained by landmarks](https://stackoverflow.com/questions/71013159/all-page-content-should-be-contained-by-landmarks)
-<!-- STACKOVERFLOW:END -->
- 
-</details>
-
----
-
-<details>
-
-  <summary>:zap: Recent GitHub Activity</summary>
-  <br>
-<!--START_SECTION:activity-->
-
-1. ❗️ Closed issue [#1](https://github.com/DeepCoreB4/DeepCoreB4/issues/1) in [DeepCoreB4/DeepCoreB4](https://github.com/DeepCoreB4/DeepCoreB4)
-
-<!--END_SECTION:activity-->
-
-<br>
-
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=deepcoreb4&labels=true"
-/>
 
 </details>
 <br>
