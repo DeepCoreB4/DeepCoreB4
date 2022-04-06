@@ -27,6 +27,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I love loaders](https://edgar-dominik-herren.vercel.app/articles/i-love-loaders)
+- [Erster post - First post](https://dev.to/blendit4ent/erster-post-first-post-aja)
 - [Modifying SVG background fills](https://edgar-dominik-herren.vercel.app/articles/svg-background-fills)
 - [Developer Roadmap](https://edgar-dominik-herren.vercel.app/articles/developer-roadmap)
 - [Improving Next.js links](https://edgar-dominik-herren.vercel.app/articles/improving-nextjs-links)
