@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Edgar Cuppari</h1>
-<h3 align="center">A passionate frontend developer from Switzerland</h3>  
+<h3 align="center">A passionate frontend/backend developer from Switzerland</h3>  
 
 <h2 align="center"></br>
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
 
-![deepcorb4](https://github-readme-mod.vercel.app/api?username=deepcoreb4&show_icons=true&theme=monokai)
-
+ [![wakatime](https://wakatime.com/badge/user/c9a684be-410c-4985-a236-f605e44d9673/project/89487d1d-1781-455b-ae57-d70231daf588.svg)](https://wakatime.com/badge/user/c9a684be-410c-4985-a236-f605e44d9673/project/89487d1d-1781-455b-ae57-d70231daf588)
+  
 [![dashboard](https://wakatime.com/badge/user/956ac3ec-0172-42a0-a5e6-84b32edaf94e.svg)](https://wakatime.com/dashboard)
 [![wakatime](https://wakatime.com/badge/github/DeepCoreB4/portfolio-Zl-next.svg)](https://wakatime.com/badge/github/DeepCoreB4/portfolio-Zl-next)
 
